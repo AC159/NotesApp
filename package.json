@@ -1,12 +1,24 @@
 {
   "name": "notes_app",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Node.js Notes App**",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AC159/NotesApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AC159/NotesApp/issues"
+  },
+  "homepage": "https://github.com/AC159/NotesApp#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^13.1.1"
+  }
 }
