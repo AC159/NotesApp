@@ -19,6 +19,7 @@
   "homepage": "https://github.com/AC159/NotesApp#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "validator": "^13.1.1"
+    "validator": "^13.1.1",
+    "yargs": "^15.4.1"
   }
 }
